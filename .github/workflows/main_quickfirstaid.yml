@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'QuickFirstAId'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39FD5E64BCA64E3F8330F512212910E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA28F63309F243179833B9D96545DADB }}
